@@ -1,4 +1,6 @@
 /*
+NOV 221 contest
+
 Problem
 Alice and Bob are playing a game. They have a common string SS of length NN. The players also have their individual strings AA (belonging to Alice) and BB (belonging to Bob) which are empty in the beginning. Game begins with Alice and both players take alternate turns.
 
