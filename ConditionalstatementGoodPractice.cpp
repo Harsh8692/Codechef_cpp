@@ -1,4 +1,6 @@
 /*
+NOV 221 contest
+
 Chef is setting up a perfect bath for himself. He has X litres of hot water and Y litres of cold water.
 The initial temperature of water in his bathtub is AA degrees. On mixing water, the temperature of the bathtub changes as following:
 
